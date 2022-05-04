@@ -1,4 +1,4 @@
-﻿import banners
+import banners
 import connection
 import consoleParser
 import portforwardlib
@@ -30,7 +30,7 @@ def printHelp():
 	print("  file remove: Removes a file from the file list.")
 	print("  file removen: Removes a file from the file list by its index number.")
 	print("  file clear: Erases all contents from the file list.")
-	print("\n\n  WHITELIST: Its only used in server mode. Is the list of ips that are allowed to connect to the server. Its not obligatory.")
+	print("\n\n  WHITELIST: Its only used in server mode. Its the list of ips that are allowed to connect to the server. Its not obligatory.")
 	print("             It doesnt work if the whitelist parameter is not set to true ('set whitelist true')\n")
 	print("  whitelist add: Adds an ip to the whitelist.")
 	print("  whitelist remove: Removes an ip from the whitelist.")
