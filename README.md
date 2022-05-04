@@ -1,33 +1,7 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200;600&display=swap');
-body{
-font-family: 'Source Code Pro', monospace;
-}
-h1, h2, h3{
-font-weight: bold;
-}
-p{
-font-size: 1.1rem;
-}
-span{
-font-weight: bold;
-color: green;
-}
-.subtitle {
-font-weight: bold;
-}
-</style>
-
 <div style="width:100%;">
-  <pre align="center" style="margin-bottom:-37px;">██████╗ ██╗   ██╗██╗     ███████╗███████╗██████╗ </pre>
-  <pre align="center" style="margin-bottom:-37px;">██╔══██╗╚██╗ ██╔╝██║     ██╔════╝██╔════╝██╔══██╗</pre>
-  <pre align="center" style="margin-bottom:-37px;">██████╔╝ ╚████╔╝ ██║     █████╗  █████╗  ██████╔╝</pre>
-  <pre align="center" style="margin-bottom:-37px;">██╔═══╝   ╚██╔╝  ██║     ██╔══╝  ██╔══╝  ██╔══██╗</pre>
-  <pre align="center" style="margin-bottom:-37px;">██║        ██║   ███████╗██║     ███████╗██║  ██║</pre>
-  <pre align="center" style="margin-bottom:-37px;">╚═╝        ╚═╝   ╚══════╝╚═╝     ╚══════╝╚═╝  ╚═╝</pre>
+  <h1 align="center" style="font-weight:bold; font-size: 7rem;">PYLFER</h1>
+  <h2 align="center" style="margin-top: 37px;">Share all you want on a P2P connection!</h2>
 </div>
-
-<h1 align="center" style="margin-top: 37px;">Share all you want on a P2P connection!</h1>
 <br>
 <h2>Requirements:<h2>
 <p><span>tqdm</span></p>
